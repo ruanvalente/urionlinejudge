@@ -10,8 +10,8 @@ Imprima a mensagem "X = " (letra X maiúscula) seguido pelo valor da variável X
 https://www.urionlinejudge.com.br/judge/pt/problems/view/1001
 """
 
-A = int(input())
-B = int(input())
-X = A + B
+a = int(input())
+b = int(input())
+x = a + b
 
-print("X = {}".format(X))
+print("X = {}".format(x))

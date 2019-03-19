@@ -14,6 +14,6 @@ https://www.urionlinejudge.com.br/judge/pt/problems/view/1002
 
 raio = float(input())
 n = 3.14159
-AREA = (raio * raio) * n
+area = (raio * raio) * n
 
-print("A={:.4f}".format(AREA))
+print("A={:.4f}".format(area))

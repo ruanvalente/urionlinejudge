@@ -10,8 +10,8 @@ Imprima a variável SOMA com todas as letras maiúsculas, com um espaço em bran
 https://www.urionlinejudge.com.br/judge/pt/problems/view/1003
 """
 
-A = int(input())
-B = int(input())
-SOMA = A + B
+a = int(input())
+b = int(input())
+soma = a + b
 
-print("SOMA = {} \n".format(SOMA))
+print("SOMA = {} \n".format(soma))

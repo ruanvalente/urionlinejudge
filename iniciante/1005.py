@@ -10,9 +10,9 @@ Calcule e imprima a variável MEDIA conforme exemplo abaixo, com 5 dígitos apó
 https://www.urionlinejudge.com.br/judge/pt/problems/view/1005
 """
 
-A = float(input())
-B = float(input())
+a = float(input())
+b = float(input())
 
-MEDIA = (A / 11 * 3.5 ) + (B / 11 * 7.5)
+media = (a / 11 * 3.5 ) + (b / 11 * 7.5)
 
-print("MEDIA = {:.5f}".format(MEDIA))
+print("MEDIA = {:.5f}".format(media))

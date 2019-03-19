@@ -10,9 +10,9 @@ Imprima a variável MEDIA conforme exemplo abaixo, com 1 dígito após o ponto d
 https://www.urionlinejudge.com.br/judge/pt/problems/view/1006
 """
 
-A = float(input())
-B = float(input())
-C = float(input())
-MEDIA = (A*2 + B*3 + C*5) / 10
+a = float(input())
+b = float(input())
+c = float(input())
+media = (a*2 + b*3 + c*5) / 10
 
-print("MEDIA = {:.1f}".format(MEDIA))
+print("MEDIA = {:.1f}".format(media))

@@ -12,6 +12,6 @@ https://www.urionlinejudge.com.br/judge/pt/problems/view/1004
 
 valor1 = int(input())
 valor2 = int(input())
-PROD = valor1 * valor2
+prod = valor1 * valor2
 
-print("PROD = {}".format(PROD))
+print("PROD = {}".format(prod))
